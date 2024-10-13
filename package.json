@@ -1,0 +1,26 @@
+{
+  "name": "use-checklist",
+  "version": "1.0.0",
+  "description": "A react hooks to manage checklist state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tazirahmb/use-checklist.git"
+  },
+  "keywords": [
+    "checklist",
+    "state",
+    "hooks",
+    "react-hooks",
+    "react"
+  ],
+  "author": "tazirahmb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tazirahmb/use-checklist/issues"
+  },
+  "homepage": "https://github.com/tazirahmb/use-checklist#readme"
+}
